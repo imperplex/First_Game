@@ -1050,3 +1050,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.25-23.00.36:985][545]LogEditorActor: Deleted Actor: StaticMeshActor
 [2021.10.25-23.00.36:998][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
 [2021.10.25-23.00.36:999][545]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.10.25-23.00.44:537][ 79]LogActorFactory: Actor Factory created SM_Foundation_Angle_02
+[2021.10.25-23.00.45:767][170]LogActorFactory: Actor Factory created SM_Foundation_Angle_02
