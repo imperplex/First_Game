@@ -6073,3 +6073,882 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.26-03.25.56:643][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2021.10.26-03.25.56:646][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
 [2021.10.26-03.25.56:680][764]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2021.10.26-03.28.04:178][715]LogStaticMesh: Building static mesh SM_Interior_Wall_01...
+[2021.10.26-03.28.04:199][715]LogStaticMesh: Built static mesh [0.02s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Interior_Wall_01.SM_Interior_Wall_01
+[2021.10.26-03.28.04:432][726]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.28.05:179][796]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.28.19:909][428]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_27)
+[2021.10.26-03.28.20:845][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.28.22:346][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_40)
+[2021.10.26-03.28.22:933][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_28)
+[2021.10.26-03.28.23:630][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_31)
+[2021.10.26-03.28.24:146][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_30)
+[2021.10.26-03.28.25:677][ 39]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.28.26:091][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_27)
+[2021.10.26-03.28.26:618][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_26)
+[2021.10.26-03.28.27:985][283]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_25)
+[2021.10.26-03.28.28:483][335]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_24)
+[2021.10.26-03.28.29:083][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_23)
+[2021.10.26-03.28.30:928][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_24)
+[2021.10.26-03.28.31:478][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_25)
+[2021.10.26-03.28.32:009][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_26)
+[2021.10.26-03.28.32:512][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_27)
+[2021.10.26-03.28.38:711][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.28.41:844][804]Cmd: DELETE
+[2021.10.26-03.28.41:844][804]Cmd: ACTOR DELETE
+[2021.10.26-03.28.41:851][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.28.41:856][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.10.26-03.28.41:863][804]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2021.10.26-03.28.51:445][758]LogActorFactory: Actor Factory created SM_Front_Door_Wall
+[2021.10.26-03.28.52:726][898]LogActorFactory: Actor Factory created SM_Front_Door_Wall
+[2021.10.26-03.29.05:461][333]Cmd: DELETE
+[2021.10.26-03.29.05:461][333]Cmd: ACTOR DELETE
+[2021.10.26-03.29.05:469][333]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.29.05:474][333]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2021.10.26-03.29.05:478][333]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.10.26-03.29.10:890][855]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.10.26-03.29.12:124][987]LogActorFactory: Actor Factory created SM_Wall_01
+[2021.10.26-03.30.10:243][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2021.10.26-03.30.30:564][996]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_269)
+[2021.10.26-03.30.31:345][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_01)
+[2021.10.26-03.30.59:099][150]Cmd: DELETE
+[2021.10.26-03.30.59:099][150]Cmd: ACTOR DELETE
+[2021.10.26-03.30.59:106][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.30.59:110][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.10.26-03.30.59:115][150]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2021.10.26-03.31.00:807][309]LogStaticMesh: Building static mesh SM_Wall_02...
+[2021.10.26-03.31.00:834][309]LogStaticMesh: Built static mesh [0.03s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Wall_02.SM_Wall_02
+[2021.10.26-03.31.01:288][332]LogActorFactory: Actor Factory created SM_Wall_02
+[2021.10.26-03.31.02:411][427]LogActorFactory: Actor Factory created SM_Wall_02
+[2021.10.26-03.31.04:211][634]LogActorFactory: Actor Factory created SM_Wall_02
+[2021.10.26-03.31.05:360][762]Cmd: DELETE
+[2021.10.26-03.31.05:360][762]Cmd: ACTOR DELETE
+[2021.10.26-03.31.05:368][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.31.05:372][762]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.26-03.31.05:374][762]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2021.10.26-03.31.06:895][903]LogStaticMesh: Building static mesh SM_Wall_05...
+[2021.10.26-03.31.06:913][903]LogStaticMesh: Built static mesh [0.02s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Wall_05.SM_Wall_05
+[2021.10.26-03.31.07:236][922]LogActorFactory: Actor Factory created SM_Wall_05
+[2021.10.26-03.31.08:665][ 49]LogActorFactory: Actor Factory created SM_Wall_05
+[2021.10.26-03.31.10:623][276]LogActorFactory: Actor Factory created SM_Wall_05
+[2021.10.26-03.31.21:534][476]Cmd: DELETE
+[2021.10.26-03.31.21:534][476]Cmd: ACTOR DELETE
+[2021.10.26-03.31.21:541][476]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.31.21:546][476]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.31.21:549][476]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2021.10.26-03.31.22:738][581]LogActorFactory: Actor Factory created SM_Wall_04
+[2021.10.26-03.31.23:632][676]LogActorFactory: Actor Factory created SM_Wall_04
+[2021.10.26-03.31.49:599][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_116)
+[2021.10.26-03.31.56:812][282]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.32.02:219][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_116)
+[2021.10.26-03.32.03:062][962]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.32.04:799][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_148)
+[2021.10.26-03.32.10:739][774]MapCheck: New page: Map Check
+[2021.10.26-03.32.10:753][774]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.26-03.32.10:754][774]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.26-03.32.10:757][774]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.26-03.32.10:774][774]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.26-03.32.10:774][774]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.26-03.32.10:774][774]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.26-03.32.10:782][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.10.26-03.32.10:790][774]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.10.26-03.32.10:796][774]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2021.10.26-03.32.10:800][774]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.10.26-03.32.10:800][774]LightingResults: New page: Lighting Build - Oct 25, 2021, 5:32:10 PM
+[2021.10.26-03.32.10:810][774]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.26-03.32.10:814][774]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.26-03.32.10:814][774]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.26-03.32.10:814][774]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.26-03.32.10:814][774]LogSwarmInterface: [TryOpenConnection] Local Process ID is 888
+[2021.10.26-03.32.15:369][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.26-03.32.15:369][774]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.26-03.32.15:369][774]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.26-03.32.15:369][774]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.26-03.32.15:369][774]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.26-03.32.15:487][774]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.26-03.32.15:487][774]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:32:15 PM
+[2021.10.26-03.32.15:488][774]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.10.26-03.32.15:490][774]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 3.114ms to complete.
+[2021.10.26-03.32.15:493][774]LogEditorBuildUtils: Build time 0:04
+[2021.10.26-03.32.15:556][774]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.26-03.32.15:556][774]LogShaderCompilers: Display: Total job queries 236, among them cache hits 51 (21.61%)
+[2021.10.26-03.32.15:556][774]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 119 distinct outputs (64.32%)
+[2021.10.26-03.32.15:556][774]LogShaderCompilers: Display: RAM used: 0.64 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.03%
+[2021.10.26-03.32.15:556][774]LogShaderCompilers: Display: ================================================
+[2021.10.26-03.32.15:811][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.10.26-03.32.21:356][ 26]Job is a success!
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.011s
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:          1: 6.2% covering 6.2% of volume
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:          2: 92.3% covering 1.5% of volume
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.26-03.32.21:555][ 27]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 65 bricks 	 100.0% (Persistent Level)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion1_6 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion1_7 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: SkyOcclusion1_8 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:466][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:466][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_9 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_10 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_11 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_12 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_13 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: SkyOcclusion1_14 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.32.22:467][ 27]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_27 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_28 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_33 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_29 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_30 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_31 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogTexture: Display: Building textures: ShadowMapTexture2D_32 (G8, 1024X1024)
+[2021.10.26-03.32.22:784][ 27]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 441 meshes in 21 LightmapResourceClusters (21.0 Meshes per cluster).
+[2021.10.26-03.32.22:799][ 27]Lightmass on DESKTOP-H30KCSG: 6.57 sec total, 128 ms importing, 74 ms setup, 955 ms photons, 5.38 sec processing, 0 ms extra exporting [441/441 mappings]. Threads: 1:20 min total, 34.6 sec processing.
+[2021.10.26-03.32.22:821][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.26-03.32.22:845][ 27]LogStaticLightingSystem: Illumination: 12.0 sec (627 ms encoding lightmaps, 288 ms encoding shadowmaps)
+[2021.10.26-03.32.22:845][ 27]LogStaticLightingSystem: Lightmap texture memory:  37.3 MB (37.3 MB streaming, 0.0 MB non-streaming), 28 textures
+[2021.10.26-03.32.22:845][ 27]LogStaticLightingSystem: Shadowmap texture memory: 9.3 MB (9.3 MB streaming, 0.0 MB non-streaming), 7 textures
+[2021.10.26-03.32.23:381][ 27]DumpUnbuiltLightIteractions
+[2021.10.26-03.32.23:381][ 27]Lights with unbuilt interactions: 0
+[2021.10.26-03.32.23:381][ 27]
+[2021.10.26-03.32.23:381][ 27]Primitives with unbuilt interactions: 0
+[2021.10.26-03.32.23:517][ 27]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.10.26-03.32.23:573][ 28]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.26-03.32.23:573][ 28]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:32:23 PM
+[2021.10.26-03.32.23:575][ 28]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.177ms to complete.
+[2021.10.26-03.32.25:559][230]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.32.25:564][230]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.32.33:655][126]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_01)
+[2021.10.26-03.32.50:982][797]LogStaticMesh: Building static mesh SM_Interior_Wall_Door_01...
+[2021.10.26-03.32.51:026][797]LogStaticMesh: Built static mesh [0.04s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Interior_Wall_Door_01.SM_Interior_Wall_Door_01
+[2021.10.26-03.32.51:382][816]LogActorFactory: Actor Factory created SM_Interior_Wall_Door_01
+[2021.10.26-03.32.52:576][931]LogActorFactory: Actor Factory created SM_Interior_Wall_Door_01
+[2021.10.26-03.33.13:002][162]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_209)
+[2021.10.26-03.33.22:824][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.33.41:258][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_121)
+[2021.10.26-03.33.57:601][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.34.45:478][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Wall_29)
+[2021.10.26-03.34.50:431][794]Cmd: DELETE
+[2021.10.26-03.34.50:431][794]Cmd: ACTOR DELETE
+[2021.10.26-03.34.50:439][794]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.34.50:443][794]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.34.50:448][794]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.10.26-03.34.51:429][911]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.35.36:284][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_01)
+[2021.10.26-03.36.19:790][965]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.36.20:755][ 72]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_01)
+[2021.10.26-03.36.21:792][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.36.36:882][484]LogStaticMesh: Building static mesh SM_Emergency_Door_01...
+[2021.10.26-03.36.36:953][484]LogStaticMesh: Built static mesh [0.07s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Emergency_Door_01.SM_Emergency_Door_01
+[2021.10.26-03.36.37:440][484]LogTexture: Display: Building textures: T_Emergency_Door_MRO (OODLE_DXT1, 2048X2048)
+[2021.10.26-03.36.37:440][484]LogTexture: Display: Building textures: T_Emergency_Door_A (OODLE_AutoDXT, 2048X2048)
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.36.37:440][484]LogTexture: Display: Building textures: T_Emergency_Door_N (OODLE_BC5, 2048X2048)
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.10.26-03.36.37:440][484]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.10.26-03.36.37:455][484]LogActorFactory: Actor Factory created SM_Emergency_Door_01
+[2021.10.26-03.36.39:218][660]LogActorFactory: Actor Factory created SM_Emergency_Door_01
+[2021.10.26-03.36.53:904][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Emergency_Door_01)
+[2021.10.26-03.37.27:826][730]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Emergency_Door_01)
+[2021.10.26-03.37.54:224][752]Cmd: MODE GRID=0
+[2021.10.26-03.38.05:730][ 44]LogEditorViewport: Clicking Background
+[2021.10.26-03.38.08:292][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Emergency_Door_01)
+[2021.10.26-03.38.10:846][642]LogEditorViewport: Clicking Background
+[2021.10.26-03.38.19:202][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_01)
+[2021.10.26-03.38.23:471][121]Cmd: MODE GRID=1
+[2021.10.26-03.38.32:318][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_268)
+[2021.10.26-03.38.33:432][266]LogEditorViewport: Clicking Background
+[2021.10.26-03.39.01:418][396]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.39.03:621][641]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.39.13:148][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_01)
+[2021.10.26-03.39.14:261][869]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_2)
+[2021.10.26-03.39.57:265][766]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.39.59:423][993]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.40.03:722][444]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.40.05:739][653]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.40.22:719][587]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_3)
+[2021.10.26-03.40.41:501][686]LogEditorViewport: Clicking Background
+[2021.10.26-03.40.54:944][238]LogStaticMesh: Building static mesh SM_Door_Corridor_Wall...
+[2021.10.26-03.40.55:155][238]LogStaticMesh: Built static mesh [0.21s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Door_Corridor_Wall.SM_Door_Corridor_Wall
+[2021.10.26-03.40.55:182][238]LogActorFactory: Actor Factory created SM_Door_Corridor_Wall
+[2021.10.26-03.40.58:153][576]LogActorFactory: Actor Factory created SM_Door_Corridor_Wall
+[2021.10.26-03.41.05:923][431]Cmd: DELETE
+[2021.10.26-03.41.05:923][431]Cmd: ACTOR DELETE
+[2021.10.26-03.41.05:931][431]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.41.05:936][431]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.41.05:944][431]LogEditorActor: Deleted 1 Actors (0.020 secs)
+[2021.10.26-03.41.12:510][960]LogActorFactory: Actor Factory created SM_Interior_Wall_Door_01
+[2021.10.26-03.41.14:490][175]LogActorFactory: Actor Factory created SM_Interior_Wall_Door_01
+[2021.10.26-03.41.14:819][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_2)
+[2021.10.26-03.41.35:765][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_281)
+[2021.10.26-03.41.45:291][495]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.41.47:814][749]LogActorFactory: Actor Factory created SM_Interior_Wall_01
+[2021.10.26-03.41.48:168][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.42.14:065][676]LogEditorViewport: Clicking Background
+[2021.10.26-03.42.15:067][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.42.28:876][358]LogEditorViewport: Clicking Background
+[2021.10.26-03.42.51:239][878]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.26-03.42.51:246][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.26-03.42.51:246][878]PIE: New page: PIE session: FirstPersonExampleMap (Oct 25, 2021, 5:42:51 PM)
+[2021.10.26-03.42.51:283][878]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.42.51:316][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.033041s)
+[2021.10.26-03.42.51:317][878]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.26-03.42.51:317][878]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2021.10.26-03.42.51:317][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.034601s)
+[2021.10.26-03.42.51:332][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.10.26-03.42.51:338][878]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.26-03.42.51:338][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.26-03.42.51:338][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.26-03.42.51:339][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.26-03.42.51:339][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.26-03.42.51:339][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.26-03.42.51:339][878]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.26-03.42.51:341][878]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.26-03.42.51:341][878]LogAudioMixer: Display: 1: FrontRight
+[2021.10.26-03.42.51:348][878]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.26-03.42.51:348][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.26-03.42.51:348][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.26-03.42.51:348][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.26-03.42.51:349][878]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.26-03.42.51:349][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.26-03.42.51:349][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.26-03.42.51:350][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.26-03.42.51:350][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.26-03.42.51:350][878]LogInit: FAudioDevice initialized.
+[2021.10.26-03.42.51:350][878]LogAudio: Display: Audio Device (ID: 12) registered with world 'FirstPersonExampleMap'.
+[2021.10.26-03.42.51:364][878]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.26-03.42.51:374][878]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.25-22.42.51
+[2021.10.26-03.42.51:375][878]LogWorld: Bringing up level for play took: 0.009386
+[2021.10.26-03.42.51:375][878]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.10.26-03.42.51:379][878]PIE: Server logged in
+[2021.10.26-03.42.51:380][878]PIE: Play in editor total start time 0.135 seconds.
+[2021.10.26-03.43.44:667][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.43.44:667][126]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.43.44:668][126]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.26-03.43.44:670][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.43.44:674][126]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.26-03.43.44:676][126]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.43.44:680][126]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.26-03.43.44:680][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.43.44:681][126]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.43.44:683][126]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.43.44:687][126]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.10.26-03.43.44:744][132]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.10.26-03.45.19:621][127]LogStaticMesh: Building static mesh SM_Floor_02...
+[2021.10.26-03.45.19:733][127]LogStaticMesh: Built static mesh [0.11s] /Game/Abandoned_Psychiatric_Hospital/Models/Modules/SM_Floor_02.SM_Floor_02
+[2021.10.26-03.45.20:011][141]LogActorFactory: Actor Factory created SM_Floor_02
+[2021.10.26-03.45.20:987][244]LogActorFactory: Actor Factory created SM_Floor_02
+[2021.10.26-03.45.28:904][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_02)
+[2021.10.26-03.46.19:956][954]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_206)
+[2021.10.26-03.46.24:033][292]LogActorFactory: Actor Factory created SM_Floor_02
+[2021.10.26-03.46.45:156][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_02)
+[2021.10.26-03.46.52:832][472]Cmd: EDIT COPY
+[2021.10.26-03.46.53:474][548]Cmd: EDIT PASTE
+[2021.10.26-03.46.53:673][568]Cmd: EDIT PASTE
+[2021.10.26-03.46.53:863][587]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:019][602]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:184][618]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:346][633]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:519][649]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:683][664]Cmd: EDIT PASTE
+[2021.10.26-03.46.54:854][680]Cmd: EDIT PASTE
+[2021.10.26-03.46.55:026][696]Cmd: EDIT PASTE
+[2021.10.26-03.46.55:212][714]Cmd: EDIT PASTE
+[2021.10.26-03.46.55:382][730]Cmd: EDIT PASTE
+[2021.10.26-03.46.59:403][177]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_311)
+[2021.10.26-03.47.02:689][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_310)
+[2021.10.26-03.47.09:630][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_309)
+[2021.10.26-03.47.14:971][919]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.26-03.47.14:976][919]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.26-03.47.14:976][919]PIE: New page: PIE session: FirstPersonExampleMap (Oct 25, 2021, 5:47:14 PM)
+[2021.10.26-03.47.15:024][919]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.47.15:059][919]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034899s)
+[2021.10.26-03.47.15:061][919]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.26-03.47.15:062][919]LogPlayLevel: PIE: World Init took: (0.002255s)
+[2021.10.26-03.47.15:062][919]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.037458s)
+[2021.10.26-03.47.15:075][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.26-03.47.15:080][919]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.26-03.47.15:080][919]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.26-03.47.15:080][919]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.26-03.47.15:081][919]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.26-03.47.15:081][919]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.26-03.47.15:081][919]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.26-03.47.15:081][919]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.26-03.47.15:083][919]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.26-03.47.15:083][919]LogAudioMixer: Display: 1: FrontRight
+[2021.10.26-03.47.15:090][919]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.26-03.47.15:090][919]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.26-03.47.15:090][919]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.26-03.47.15:090][919]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.26-03.47.15:091][919]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.26-03.47.15:091][919]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.26-03.47.15:091][919]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.26-03.47.15:091][919]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.26-03.47.15:091][919]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.26-03.47.15:091][919]LogInit: FAudioDevice initialized.
+[2021.10.26-03.47.15:092][919]LogAudio: Display: Audio Device (ID: 13) registered with world 'FirstPersonExampleMap'.
+[2021.10.26-03.47.15:102][919]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.26-03.47.15:111][919]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.25-22.47.15
+[2021.10.26-03.47.15:111][919]LogWorld: Bringing up level for play took: 0.008751
+[2021.10.26-03.47.15:111][919]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2021.10.26-03.47.15:115][919]PIE: Server logged in
+[2021.10.26-03.47.15:115][919]PIE: Play in editor total start time 0.14 seconds.
+[2021.10.26-03.47.44:729][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.47.44:729][446]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.47.44:730][446]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.26-03.47.44:732][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.47.44:743][446]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.26-03.47.44:757][446]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.47.44:763][446]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.26-03.47.44:763][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.47.44:765][446]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.47.44:766][446]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.47.44:769][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.26-03.47.44:797][447]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2021.10.26-03.47.54:511][543]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_309)
+[2021.10.26-03.47.57:869][921]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_308)
+[2021.10.26-03.48.01:304][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_191)
+[2021.10.26-03.48.02:062][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_309)
+[2021.10.26-03.48.05:383][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_307)
+[2021.10.26-03.48.08:806][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_308)
+[2021.10.26-03.48.10:913][377]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_306)
+[2021.10.26-03.48.18:701][262]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_305)
+[2021.10.26-03.48.25:393][ 17]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_307)
+[2021.10.26-03.48.28:741][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_304)
+[2021.10.26-03.48.37:536][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_303)
+[2021.10.26-03.48.43:852][ 91]Cmd: DELETE
+[2021.10.26-03.48.43:852][ 91]Cmd: ACTOR DELETE
+[2021.10.26-03.48.43:859][ 91]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.48.43:864][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.48.43:870][ 91]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2021.10.26-03.48.45:770][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_302)
+[2021.10.26-03.48.52:547][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_301)
+[2021.10.26-03.48.55:831][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_02)
+[2021.10.26-03.49.00:879][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_191)
+[2021.10.26-03.49.05:976][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_301)
+[2021.10.26-03.49.07:103][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_122)
+[2021.10.26-03.49.07:150][696]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMeshComponent0)
+[2021.10.26-03.49.07:874][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_301)
+[2021.10.26-03.49.12:249][265]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_263)
+[2021.10.26-03.49.14:103][470]LogEditorViewport: Clicking Background
+[2021.10.26-03.49.28:106][ 66]MapCheck: New page: Map Check
+[2021.10.26-03.49.28:117][ 66]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.26-03.49.28:118][ 66]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.26-03.49.28:121][ 66]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.26-03.49.28:137][ 66]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.26-03.49.28:137][ 66]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.26-03.49.28:137][ 66]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.26-03.49.28:145][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.49.28:154][ 66]LogLevel: Display: Export Material TexCoord Scales took 0.004 seconds.
+[2021.10.26-03.49.28:160][ 66]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2021.10.26-03.49.28:168][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.10.26-03.49.28:169][ 66]LightingResults: New page: Lighting Build - Oct 25, 2021, 5:49:28 PM
+[2021.10.26-03.49.28:173][ 66]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.26-03.49.28:177][ 66]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.26-03.49.28:177][ 66]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.26-03.49.28:178][ 66]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.26-03.49.28:178][ 66]LogSwarmInterface: [TryOpenConnection] Local Process ID is 888
+[2021.10.26-03.49.32:749][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.26-03.49.32:749][ 66]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.26-03.49.32:749][ 66]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.26-03.49.32:749][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.26-03.49.32:749][ 66]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.26-03.49.32:883][ 66]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.26-03.49.32:883][ 66]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:49:32 PM
+[2021.10.26-03.49.32:883][ 66]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.10.26-03.49.32:885][ 66]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.085ms to complete.
+[2021.10.26-03.49.32:887][ 66]LogEditorBuildUtils: Build time 0:04
+[2021.10.26-03.49.32:943][ 66]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.26-03.49.32:943][ 66]LogShaderCompilers: Display: Total job queries 236, among them cache hits 51 (21.61%)
+[2021.10.26-03.49.32:943][ 66]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 119 distinct outputs (64.32%)
+[2021.10.26-03.49.32:943][ 66]LogShaderCompilers: Display: RAM used: 0.64 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.03%
+[2021.10.26-03.49.32:943][ 66]LogShaderCompilers: Display: ================================================
+[2021.10.26-03.49.33:209][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.10.26-03.49.39:359][439]Job is a success!
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:          0: 1.4% covering 100.0% of volume
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:          1: 5.8% covering 6.2% of volume
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:          2: 92.8% covering 1.6% of volume
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.26-03.49.39:548][440]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 69 bricks 	 100.0% (Persistent Level)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion0_1 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap0_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion0_2 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap0_2 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap1_4 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion1_4 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion1_5 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap1_5 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: SkyOcclusion0_6 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: HQ_Lightmap0_6 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTexture: Display: Building textures: LQ_Lightmap_0_6 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:575][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_7 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_7 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_7 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_8 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_8 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_8 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_9 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_9 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_9 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_10 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_10 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_10 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_11 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_11 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_11 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_12 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_12 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: LQ_Lightmap_0_12 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: SkyOcclusion0_13 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:576][440]LogTexture: Display: Building textures: HQ_Lightmap0_13 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: SkyOcclusion0_14 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: LQ_Lightmap_0_13 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: HQ_Lightmap0_14 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: LQ_Lightmap_0_14 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: SkyOcclusion0_15 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: HQ_Lightmap0_15 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTexture: Display: Building textures: LQ_Lightmap_0_15 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:577][440]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.49.40:775][440]LogTexture: Display: Building textures: ShadowMapTexture2D_41 (G8, 128X128)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_35 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_37 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_38 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_39 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_34 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_36 (G8, 1024X1024)
+[2021.10.26-03.49.40:891][440]LogTexture: Display: Building textures: ShadowMapTexture2D_40 (G8, 1024X1024)
+[2021.10.26-03.49.40:892][440]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 459 meshes in 25 LightmapResourceClusters (18.4 Meshes per cluster).
+[2021.10.26-03.49.40:918][440]Lightmass on DESKTOP-H30KCSG: 7.32 sec total, 136 ms importing, 114 ms setup, 1.11 sec photons, 5.91 sec processing, 0 ms extra exporting [459/459 mappings]. Threads: 1:28 min total, 42.7 sec processing.
+[2021.10.26-03.49.40:924][440]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.10.26-03.49.40:950][440]LogStaticLightingSystem: Illumination: 12.7 sec (734 ms encoding lightmaps, 277 ms encoding shadowmaps)
+[2021.10.26-03.49.40:950][440]LogStaticLightingSystem: Lightmap texture memory:  40.0 MB (40.0 MB streaming, 0.0 MB non-streaming), 30 textures
+[2021.10.26-03.49.40:950][440]LogStaticLightingSystem: Shadowmap texture memory: 9.4 MB (9.4 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.10.26-03.49.41:764][440]DumpUnbuiltLightIteractions
+[2021.10.26-03.49.41:764][440]Lights with unbuilt interactions: 0
+[2021.10.26-03.49.41:764][440]
+[2021.10.26-03.49.41:764][440]Primitives with unbuilt interactions: 0
+[2021.10.26-03.49.41:888][440]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.10.26-03.49.41:938][441]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.26-03.49.41:938][441]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:49:41 PM
+[2021.10.26-03.49.41:940][441]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.292ms to complete.
+[2021.10.26-03.49.43:459][609]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.49.43:463][609]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.50.45:514][422]LogStaticMesh: Building static mesh SM_Blood_Decals_04...
+[2021.10.26-03.50.45:541][422]LogStaticMesh: Built static mesh [0.03s] /Game/Abandoned_Psychiatric_Hospital/Models/Decals/SM_Blood_Decals_04.SM_Blood_Decals_04
+[2021.10.26-03.50.45:869][422]LogTexture: Display: Building textures: T_Blood_Decals_N (OODLE_BC5, 2048X2048)
+[2021.10.26-03.50.45:870][422]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.10.26-03.50.45:870][422]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.10.26-03.50.45:870][422]LogTexture: Display: Building textures: T_Blood_Decals_A (OODLE_AutoDXT, 2048X2048)
+[2021.10.26-03.50.45:870][422]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.50.45:870][422]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.50.45:884][422]LogActorFactory: Actor Factory created SM_Blood_Decals_04
+[2021.10.26-03.50.48:142][669]LogActorFactory: Actor Factory created SM_Blood_Decals_04
+[2021.10.26-03.50.59:644][976]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.51.06:462][767]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.51.06:926][819]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.51.14:151][499]LogStaticMesh: Building static mesh SM_Blood_Decals_02...
+[2021.10.26-03.51.14:170][499]LogStaticMesh: Built static mesh [0.02s] /Game/Abandoned_Psychiatric_Hospital/Models/Decals/SM_Blood_Decals_02.SM_Blood_Decals_02
+[2021.10.26-03.51.14:194][499]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Abandoned_Psychiatric_Hospital/Models/Decals/SM_Blood_Decals_02.SM_Blood_Decals_02
+[2021.10.26-03.51.14:269][499]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2021.10.26-03.51.14:340][499]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.10.26-03.51.16:636][663]LogSlate: Window 'SM_Blood_Decals_02' being destroyed
+[2021.10.26-03.51.16:642][663]LogSlate: Window 'SM_Blood_Decals_02' being destroyed
+[2021.10.26-03.51.16:670][663]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.10.26-03.51.16:670][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.51.17:826][762]LogActorFactory: Actor Factory created SM_Blood_Decals_02
+[2021.10.26-03.51.19:985][956]LogActorFactory: Actor Factory created SM_Blood_Decals_02
+[2021.10.26-03.51.48:581][221]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_Door_2)
+[2021.10.26-03.51.56:269][101]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.51.58:051][303]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.52.00:639][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Decals_02)
+[2021.10.26-03.52.16:093][345]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Floor_281)
+[2021.10.26-03.52.20:823][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Decals_02)
+[2021.10.26-03.52.24:463][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Interior_Wall_5)
+[2021.10.26-03.52.27:705][667]MapCheck: New page: Map Check
+[2021.10.26-03.52.27:722][667]Cmd: MAP REBUILD ALLVISIBLE
+[2021.10.26-03.52.27:722][667]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.10.26-03.52.27:725][667]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.10.26-03.52.27:742][667]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.10.26-03.52.27:742][667]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.10.26-03.52.27:742][667]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.10.26-03.52.27:751][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.10.26-03.52.27:766][667]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2021.10.26-03.52.27:773][667]TextureStreamingBuild: Display: Build Texture Streaming took 0.007 seconds.
+[2021.10.26-03.52.27:780][667]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2021.10.26-03.52.27:781][667]LightingResults: New page: Lighting Build - Oct 25, 2021, 5:52:27 PM
+[2021.10.26-03.52.27:787][667]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.10.26-03.52.27:791][667]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.10.26-03.52.27:791][667]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.10.26-03.52.27:792][667]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.10.26-03.52.27:792][667]LogSwarmInterface: [TryOpenConnection] Local Process ID is 888
+[2021.10.26-03.52.32:379][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.10.26-03.52.32:379][667]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.10.26-03.52.32:379][667]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.10.26-03.52.32:379][667]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.10.26-03.52.32:379][667]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.10.26-03.52.32:503][667]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.10.26-03.52.32:504][667]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:52:32 PM
+[2021.10.26-03.52.32:504][667]MapCheck: Error: WorldInfo_0 Maps need lighting rebuilt 
+[2021.10.26-03.52.32:506][667]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 2.277ms to complete.
+[2021.10.26-03.52.32:508][667]LogEditorBuildUtils: Build time 0:04
+[2021.10.26-03.52.32:859][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.26-03.52.38:810][961]Job is a success!
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.010s
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:      BrickData (all levels) 0.3Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:      Bricks at depth
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:          0: 1.5% covering 100.0% of volume
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:          1: 5.9% covering 6.2% of volume
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:          2: 92.6% covering 1.5% of volume
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:      Bricks in each level
+[2021.10.26-03.52.39:015][962]LogVolumetricLightmapImport:          FirstPersonExampleMap 			 68 bricks 	 100.0% (Persistent Level)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap0_3 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion0_3 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion0_4 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap0_4 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap0_5 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_0_5 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion0_5 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: SkyOcclusion1_6 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: HQ_Lightmap1_6 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:044][962]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_7 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_7 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_8 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_8 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_9 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_9 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_10 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_10 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_11 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_11 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_12 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_12 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_13 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_14 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_13 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_14 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: SkyOcclusion1_15 (OODLE_AutoDXT, 1024X512)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:045][962]LogTexture: Display: Building textures: HQ_Lightmap1_15 (OODLE_AutoDXT, 1024X1024)
+[2021.10.26-03.52.40:045][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.10.26-03.52.40:046][962]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (OODLE_DXT1, 1024X1024)
+[2021.10.26-03.52.40:046][962]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.10.26-03.52.40:244][962]LogTexture: Display: Building textures: ShadowMapTexture2D_49 (G8, 256X128)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_42 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_47 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_46 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_48 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_44 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_45 (G8, 1024X1024)
+[2021.10.26-03.52.40:348][962]LogTexture: Display: Building textures: ShadowMapTexture2D_43 (G8, 1024X1024)
+[2021.10.26-03.52.40:349][962]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 461 meshes in 25 LightmapResourceClusters (18.4 Meshes per cluster).
+[2021.10.26-03.52.40:375][962]Lightmass on DESKTOP-H30KCSG: 7.13 sec total, 137 ms importing, 63 ms setup, 1.09 sec photons, 5.78 sec processing, 0 ms extra exporting [461/461 mappings]. Threads: 1:26 min total, 42.5 sec processing.
+[2021.10.26-03.52.40:379][962]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.10.26-03.52.40:409][962]LogStaticLightingSystem: Illumination: 12.5 sec (734 ms encoding lightmaps, 270 ms encoding shadowmaps)
+[2021.10.26-03.52.40:409][962]LogStaticLightingSystem: Lightmap texture memory:  40.0 MB (40.0 MB streaming, 0.0 MB non-streaming), 30 textures
+[2021.10.26-03.52.40:409][962]LogStaticLightingSystem: Shadowmap texture memory: 9.4 MB (9.4 MB streaming, 0.0 MB non-streaming), 8 textures
+[2021.10.26-03.52.41:396][962]DumpUnbuiltLightIteractions
+[2021.10.26-03.52.41:396][962]Lights with unbuilt interactions: 0
+[2021.10.26-03.52.41:396][962]
+[2021.10.26-03.52.41:396][962]Primitives with unbuilt interactions: 0
+[2021.10.26-03.52.41:415][962]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.10.26-03.52.41:415][962]LogShaderCompilers: Display: Total job queries 236, among them cache hits 51 (21.61%)
+[2021.10.26-03.52.41:415][962]LogShaderCompilers: Display: Tracking 185 distinct input hashes that result in 119 distinct outputs (64.32%)
+[2021.10.26-03.52.41:415][962]LogShaderCompilers: Display: RAM used: 0.64 MB (0.00 GB) of 2048.00 MB (2.00 GB) budget. Usage: 0.03%
+[2021.10.26-03.52.41:415][962]LogShaderCompilers: Display: ================================================
+[2021.10.26-03.52.41:528][962]LogTexture: Display: Building textures: NewReflectionComponentTexture4E9A31EC459F824B7293D9A5960F381F (BGRA8, 128X128)
+[2021.10.26-03.52.41:566][963]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.10.26-03.52.41:566][963]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2021, 5:52:41 PM
+[2021.10.26-03.52.41:568][963]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2.292ms to complete.
+[2021.10.26-03.52.41:825][986]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.52.41:832][986]LogSlate: Window 'Message Log' being destroyed
+[2021.10.26-03.52.43:064][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.10.26-03.52.43:204][122]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMapACD564EE4DBCAE162654BFAC4B1FBFCC.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.26-03.52.43:209][122]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.10.26-03.52.43:702][122]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMap_BuiltDataA6A115DE40D24AC37FE52183526FCA88.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.26-03.52.43:716][122]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-03.52.43:716][122]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.26-03.52.43:716][122]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.26-03.52.47:257][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Decals_02)
+[2021.10.26-03.53.05:618][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Blood_Decals_02)
+[2021.10.26-03.53.06:921][817]Cmd: DELETE
+[2021.10.26-03.53.06:921][817]Cmd: ACTOR DELETE
+[2021.10.26-03.53.06:930][817]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.10.26-03.53.06:934][817]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.10.26-03.53.06:938][817]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2021.10.26-03.53.14:861][765]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (Light Source)
+[2021.10.26-03.53.19:203][254]LogEditorViewport: Clicking Background
+[2021.10.26-03.53.58:561][500]LogTemp: Repeating last play command: Selected Viewport
+[2021.10.26-03.53.58:567][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.10.26-03.53.58:567][500]PIE: New page: PIE session: FirstPersonExampleMap (Oct 25, 2021, 5:53:58 PM)
+[2021.10.26-03.53.58:590][500]LogPlayLevel: Creating play world package: /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.53.58:625][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034365s)
+[2021.10.26-03.53.58:626][500]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2021.10.26-03.53.58:627][500]LogPlayLevel: PIE: World Init took: (0.001431s)
+[2021.10.26-03.53.58:627][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap to /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap (0.036047s)
+[2021.10.26-03.53.58:633][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2021.10.26-03.53.58:641][500]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.10.26-03.53.58:641][500]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.10.26-03.53.58:641][500]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.10.26-03.53.58:641][500]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.10.26-03.53.58:641][500]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.10.26-03.53.58:641][500]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.10.26-03.53.58:642][500]LogAudioMixer: Display: Initializing audio mixer.
+[2021.10.26-03.53.58:644][500]LogAudioMixer: Display: 0: FrontLeft
+[2021.10.26-03.53.58:644][500]LogAudioMixer: Display: 1: FrontRight
+[2021.10.26-03.53.58:650][500]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2021.10.26-03.53.58:651][500]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.10.26-03.53.58:651][500]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.10.26-03.53.58:651][500]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.10.26-03.53.58:651][500]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.10.26-03.53.58:651][500]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.10.26-03.53.58:651][500]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.10.26-03.53.58:652][500]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.10.26-03.53.58:652][500]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.10.26-03.53.58:652][500]LogInit: FAudioDevice initialized.
+[2021.10.26-03.53.58:652][500]LogAudio: Display: Audio Device (ID: 14) registered with world 'FirstPersonExampleMap'.
+[2021.10.26-03.53.58:665][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2021.10.26-03.53.58:674][500]LogWorld: Bringing World /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap.FirstPersonExampleMap up for play (max tick rate 0) at 2021.10.25-22.53.58
+[2021.10.26-03.53.58:674][500]LogWorld: Bringing up level for play took: 0.009053
+[2021.10.26-03.53.58:674][500]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2021.10.26-03.53.58:678][500]PIE: Server logged in
+[2021.10.26-03.53.58:679][500]PIE: Play in editor total start time 0.112 seconds.
+[2021.10.26-03.54.11:523][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.54.11:523][988]LogWorld: BeginTearingDown for /Game/FirstPersonBP/Maps/UEDPIE_0_FirstPersonExampleMap
+[2021.10.26-03.54.11:524][988]LogWorld: UWorld::CleanupWorld for FirstPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.10.26-03.54.11:526][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.54.11:535][988]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.10.26-03.54.11:537][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.10.26-03.54.11:541][988]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.10.26-03.54.11:542][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.54.11:543][988]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.10.26-03.54.11:544][988]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.10.26-03.54.11:547][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.10.26-03.54.11:602][994]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2021.10.26-03.56.16:385][524]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.10.26-03.56.16:534][524]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMap763AA1C343379DE2E6A42A8635604DA1.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.26-03.56.16:539][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.10.26-03.56.17:029][524]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMap_BuiltDataCB0D150C417AE3CEA788849C9B5DAF02.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.26-03.56.17:041][524]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-03.56.17:041][524]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.26-03.56.17:041][524]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
+[2021.10.26-03.58.19:946][848]LogDirectoryWatcher: Display: A directory notification failed for 'D:/First_Game/MyProject3/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-03.58.19:946][848]LogDirectoryWatcher: Display: A directory notification failed for 'D:/First_Game/MyProject3/Content/Developers/leoca/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-03.58.19:946][848]LogDirectoryWatcher: Display: A directory notification failed for 'D:/First_Game/MyProject3/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.10.26-04.00.36:750][965]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.10.26-04.00.36:894][965]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMapD5BA0AE04EE4C190F0E10FAD6886FA51.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.26-04.00.36:900][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData" FILE="D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset" SILENT=true
+[2021.10.26-04.00.37:389][965]LogSavePackage: Moving 'D:/First_Game/MyProject3/Saved/FirstPersonExampleMap_BuiltDataA66DCC354B5A72B24CD9CE8CECD6B63F.tmp' to 'D:/First_Game/MyProject3/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2021.10.26-04.00.37:400][965]AssetCheck: New page: Asset Save: multiple assets
+[2021.10.26-04.00.37:400][965]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.FirstPersonExampleMap_BuiltData
+[2021.10.26-04.00.37:400][965]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
